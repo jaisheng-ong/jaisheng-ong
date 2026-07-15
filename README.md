@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📈 Bachelor of Science in Computer Science at [CEAS - University of Cincinnati](https://www.ceas.uc.edu/)
+- 📈 Bachelor of Science in Computer Science @ [CEAS - University of Cincinnati](https://www.ceas.uc.edu/)
 - 💼 Role: Software Development Intern @ [Siemens](https://www.siemens.com/en-us/)
 
 ##
