@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**jaisheng-ong/jaisheng-ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📈 Bachelor of Science in Computer Science at [CEAS - University of Cincinnati](https://www.ceas.uc.edu/)
+- 💼 Role: Software Development Intern @ [Siemens](https://www.siemens.com/en-us/)
 
-Here are some ideas to get you started:
+##
+**Socials**  
+<div> 
+ <a href="https://www.linkedin.com/in/jaisheng-ong/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ongjs@mail.uc.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+**Programming Languages:**  
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,python,matlab,php,r )](https://skillicons.dev)
+
+##
+**Technologies:**  
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,mongodb,mysql,nodejs,latex,npm,azure,linux)](https://skillicons.dev)
+
+##
+**Frameworks & Libraries:**  
+
+[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,express)](https://skillicons.dev)
