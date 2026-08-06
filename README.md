@@ -2,6 +2,7 @@
 
 - 📈 Bachelor of Science in Computer Science @ [CEAS - University of Cincinnati](https://www.ceas.uc.edu/)
 - 💼 Role: Undergraduate Student
+  * Currently: Software Development Intern @ [Siemens Digital Industries Software](https://www.siemens.com/en-us/)
 - 👤 Portfolio: https://jaisheng-ong.github.io/jaisheng-ong-portfolio/
 
 ##
